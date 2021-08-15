@@ -1,5 +1,5 @@
-# *Playfulness in the World⏤⏤*
+# *Playfulness in the World⏤⏤  *
 
->### 世界にアソビゴコロを
+>### 世界にアソビゴコロ  を
 
-## Hi there 👋
+## Hi there 👋  
