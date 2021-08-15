@@ -1,3 +1,3 @@
-# *Playfulness in the World⏤⏤  *
+#*Playfulness in the World⏤⏤*
 
 ## Hi there 👋
