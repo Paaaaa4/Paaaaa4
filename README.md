@@ -1,5 +1,5 @@
 # *Playfulness in the World ⏤⏤*
 
-### VC Born所属クリエイター
+### VC Born所属
 
 # *⏤⏤ Looking to the Future*
