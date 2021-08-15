@@ -1,3 +1,3 @@
 # Hi there 👋
 
-* Playfulness in the World─ *
+*このテキストは斜体です*
