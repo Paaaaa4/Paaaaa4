@@ -1,5 +1,5 @@
-# *Playfulness in the World⏤⏤*
+# *Playfulness in the World ⏤⏤*
 
 >## 世界にアソビゴコロを
 
-# *⏤⏤Looking to the Future*
+# *⏤⏤ Looking to the Future*
