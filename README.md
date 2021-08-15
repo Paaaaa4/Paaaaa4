@@ -1,8 +1,3 @@
 # Hi there 👋
 
-GitHubのReadMeをもっと凝りたい
-凝りたいっていうか遊びたい
-
-ｱｿﾋﾞｺﾞｺﾛのある人を目指したい
-
-人気になる企業ほどｱｿﾋﾞｺﾞｺﾛがある気がする
+## Playfulness in the World
