@@ -7,7 +7,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Paaaaa4&theme=solarized-light&count_private=true&show_icons=true" />
 
 ## Language
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaaaa4&theme=solarized-light" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaaaa4&theme=solarized-light" />
 
 
 ## Link
