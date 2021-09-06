@@ -8,7 +8,7 @@
 
 ## Language
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paaaaa4&layout=compact" />  
+  [![Paaaaa4's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paaaaa4&layout=compact)]
 
   <br><br><br><br><br><br><br><br>  
   
