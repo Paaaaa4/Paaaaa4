@@ -5,7 +5,8 @@
   [![Paaaaa4's github stats](https://github-readme-stats.vercel.app/api?username=Paaaaa4&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/Paaaaa4)
 
 ## Language
-  [![Paaaaa4's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paaaaa4&theme=solarized-light)](https://github.com/Paaaaa4)
+  ![Paaaaa4's GitHub stats](https://github-readme-stats.vercel.app/api?username=paaaaa4&show_icons=true&theme=radical)
+
 
 ## Link
 - [Twitter: paaaaa_4](https://twitter.com/paaaaa_4)
