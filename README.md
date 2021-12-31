@@ -1,4 +1,5 @@
-# *Playfulness in the World ⏤⏤*  
+# *Innovation is the future*  
+# *Revolution is the future*  
 
   [![Belong to : VCborn](https://img.shields.io/badge/Belongs-VCborn-success?style=flat-square)](https://vcborn.com/)
 
@@ -8,5 +9,3 @@
 - [Blog](https://blog.paaaaa4.xyz)
 - [Qiita](https://qiita.com/Paaaaa4)
 - [Instagram](https://www.instagram.com/paaaaaaaaaaaaa4/)
-
-# *⏤⏤ Looking to the Future*  
