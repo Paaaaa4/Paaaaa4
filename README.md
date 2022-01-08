@@ -7,4 +7,3 @@
 - [Home Page](https://paaaaa4.github.io/)
 - [Blog](https://blog.paaaaa4.xyz)
 - [Qiita](https://qiita.com/Paaaaa4)
-- [Instagram](https://www.instagram.com/paaaaaaaaaaaaa4/)
