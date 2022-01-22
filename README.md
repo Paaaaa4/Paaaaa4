@@ -4,6 +4,6 @@
 
 ## Link
 - [Twitter: paaaaa_4](https://twitter.com/paaaaa_4)
-- [Home Page](https://paaaaa4.github.io/)
+- [Home Page](https://paaaaa4.cyou)
 - [Blog](https://blog.paaaaa4.xyz)
 - [Qiita](https://qiita.com/Paaaaa4)
