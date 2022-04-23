@@ -1,5 +1,3 @@
-# *Innovation is the future*  
-
   [![Belong to : VCborn](https://img.shields.io/badge/Belongs-VCborn-success?style=flat-square)](https://vcborn.com/)
 
 ## Link
