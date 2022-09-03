@@ -2,6 +2,5 @@
 
 ## Link
 - [Twitter: paaaaa_4](https://twitter.com/paaaaa_4)
-- [Home Page](https://paaaaa4.cyou)
-- [Blog](https://blog.paaaaa4.xyz)
+- [Site](https://paaaaa4.com)
 - [Qiita](https://qiita.com/Paaaaa4)
