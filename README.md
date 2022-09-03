@@ -1,4 +1,4 @@
-# Hi there U+1F44B
+# Hi there 👋
 
 [![Belong to : VCborn](https://img.shields.io/badge/Belongs-VCborn-success?style=flat-square)](https://vcborn.com/)
 
